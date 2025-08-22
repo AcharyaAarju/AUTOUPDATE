@@ -1,0 +1,2 @@
+# AUTOUPDATE
+Windows10BIOs_andDellVOSTROAutoUpdateDISABLING
